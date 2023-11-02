@@ -1,0 +1,31 @@
+name,country,latitude,longitude,location_type,conflict_date,population
+Kaduna,Nigeria,9.5175,8.5128,town,23,6113503
+Akwa Ibom,Nigeria,4.5395,7.7517,town,33,3902051
+Edo,Nigeria,7.106,6.6966,town,53,3233366
+Bayelsa,Nigeria,4.5394,6.4003,conflict_zone,220,1704515
+Yobe,Nigeria,11.747,11.9608,conflict_zone,364,2321339
+Borno,Nigeria,12.2829,14.4724,conflict_zone,364,4171104
+Adamawa,Nigeria,9.3984,12.3644,conflict_zone,306,3178950
+Benue,Nigeria,7.2333,9.7,conflict_zone,291,4253641
+Plateau,Nigeria,9.541,8.6467,conflict_zone,290,3206531
+Rivers,Nigeria,5.3435,6.6532,conflict_zone,344,5198716
+Lagos,Nigeria,6.4148,4.0932,conflict_zone,313,9113605
+Zamfara,Nigeria,12.1628,6.6614,conflict_zone,125,3278873
+Delta,Nigeria,5.4616,6.2079,conflict_zone,340,4112445
+Nassarawa,Nigeria,8.3667,8.7667,conflict_zone,104,0
+Cross River,Nigeria,5.8828,8.0214,conflict_zone,323,2892988
+Kebbi,Nigeria,11.4241,5.2288,conflict_zone,107,3256541
+Ogun,Nigeria,6.7424,3.4219,conflict_zone,109,3751140
+Abia,Nigeria,5.1066,7.3667,conflict_zone,125,2845380
+Gombe,Nigeria,9.8647,11.2253,conflict_zone,192,2365040
+Niger,Nigeria,9.6825,6.4683,conflict_zone,216,3954772
+Taraba,Nigeria,8.5333,10.4667,conflict_zone,352,2294800
+Kwara,Nigeria,8.8167,4.9833,conflict_zone,214,2365353
+Imo,Nigeria,5.5833,7.05,conflict_zone,282,3927563
+Katsina,Nigeria,11.5233,7.3081,conflict_zone,285,5801584
+Ekiti,Nigeria,7.7998,5.3324,conflict_zone,356,2398957
+Kogi,Nigeria,7.7223,7.0616,conflict_zone,332,3314043
+Kano,Nigeria,11.8351,8.5976,conflict_zone,316,9401288
+Ebonyi,Nigeria,6.5042,8.3995,conflict_zone,317,2176947
+Oyo,Nigeria,7.3258,3.9403,conflict_zone,325,5580894
+Federal Capital Territory,Nigeria,9.0667,7.35,conflict_zone,361,1406239
