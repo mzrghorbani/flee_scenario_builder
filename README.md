@@ -30,8 +30,9 @@ This repository contains code for extracting and visualizing conflict-related in
    - Extract conflict zone data to create a `conflicts.csv` file.
    - Simulate conflict intensity data for visualisation.
 
-8. **Confirmation:**
-   - Receive a confirmation message upon successful data generation.
+8. **Creating Routes:**
+   - Routes constructions without Google API.
+   - Route constructions using Google API.
 
 This process offers valuable insights into conflict dynamics within the specified country, enabling data-driven analysis and visualisation.
 

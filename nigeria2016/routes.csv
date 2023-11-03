@@ -1,0 +1,960 @@
+location1,location2,distance,forced_redirection
+Kaduna,Akwa Ibom,556.906,0
+Kaduna,Edo,333.397,0
+Kaduna,Bayelsa,597.941,0
+Kaduna,Yobe,450.708,0
+Kaduna,Borno,719.691,0
+Kaduna,Adamawa,423.171,0
+Kaduna,Benue,284.458,0
+Kaduna,Plateau,14.929,0
+Kaduna,Rivers,505.184,0
+Kaduna,Lagos,595.919,0
+Kaduna,Zamfara,355.8,0
+Kaduna,Delta,515.652,0
+Kaduna,Nassarawa,130.307,0
+Kaduna,Cross River,405.616,0
+Kaduna,Kebbi,416.796,0
+Kaduna,Ogun,639.465,0
+Kaduna,Abia,503.954,0
+Kaduna,Gombe,300.139,0
+Kaduna,Niger,225.167,0
+Kaduna,Taraba,240.833,0
+Kaduna,Kwara,395.581,0
+Kaduna,Imo,464.07,0
+Kaduna,Katsina,258.091,0
+Kaduna,Ekiti,398.25,0
+Kaduna,Kogi,254.821,0
+Kaduna,Kano,256.523,0
+Kaduna,Ebonyi,333.493,0
+Kaduna,Oyo,558.829,0
+Kaduna,Federal Capital Territory,137.139,0
+Kaduna,Cameroon,597.041,0
+Kaduna,Chad,777.108,0
+Kaduna,Niger,629.4,0
+Akwa Ibom,Kaduna,556.906,0
+Akwa Ibom,Edo,306.928,0
+Akwa Ibom,Bayelsa,149.968,0
+Akwa Ibom,Yobe,922.112,0
+Akwa Ibom,Adamawa,740.535,0
+Akwa Ibom,Benue,367.805,0
+Akwa Ibom,Plateau,561.888,0
+Akwa Ibom,Rivers,150.823,0
+Akwa Ibom,Lagos,455.359,0
+Akwa Ibom,Zamfara,851.628,0
+Akwa Ibom,Delta,199.269,0
+Akwa Ibom,Nassarawa,437.879,0
+Akwa Ibom,Cross River,151.526,0
+Akwa Ibom,Kebbi,810.568,0
+Akwa Ibom,Ogun,537.96,0
+Akwa Ibom,Abia,75.872,0
+Akwa Ibom,Gombe,702.788,0
+Akwa Ibom,Niger,586.166,0
+Akwa Ibom,Taraba,534.045,0
+Akwa Ibom,Kwara,563.378,0
+Akwa Ibom,Imo,139.203,0
+Akwa Ibom,Katsina,773.934,0
+Akwa Ibom,Ekiti,449.081,0
+Akwa Ibom,Kogi,360.168,0
+Akwa Ibom,Kano,812.239,0
+Akwa Ibom,Ebonyi,228.815,0
+Akwa Ibom,Oyo,522.505,0
+Akwa Ibom,Federal Capital Territory,502.629,0
+Akwa Ibom,Cameroon,947.082,0
+Edo,Kaduna,333.397,0
+Edo,Akwa Ibom,306.928,0
+Edo,Bayelsa,285.72,0
+Edo,Yobe,773.01,0
+Edo,Adamawa,673.908,0
+Edo,Benue,332.038,0
+Edo,Plateau,344.474,0
+Edo,Rivers,194.969,0
+Edo,Lagos,297.783,0
+Edo,Zamfara,559.326,0
+Edo,Delta,189.72,0
+Edo,Nassarawa,267.554,0
+Edo,Cross River,199.425,0
+Edo,Kebbi,504.08,0
+Edo,Ogun,364.123,0
+Edo,Abia,233.216,0
+Edo,Gombe,584.542,0
+Edo,Niger,286.063,0
+Edo,Taraba,444.751,0
+Edo,Kwara,267.347,0
+Edo,Imo,172.872,0
+Edo,Katsina,493.165,0
+Edo,Ekiti,169.008,0
+Edo,Kogi,79.178,0
+Edo,Kano,563.156,0
+Edo,Ebonyi,199.657,0
+Edo,Oyo,305.384,0
+Edo,Federal Capital Territory,228.491,0
+Edo,Cameroon,875.314,0
+Edo,Niger,961.436,0
+Bayelsa,Kaduna,597.941,0
+Bayelsa,Akwa Ibom,149.968,0
+Bayelsa,Edo,285.72,0
+Bayelsa,Adamawa,850.192,0
+Bayelsa,Benue,471.422,0
+Bayelsa,Plateau,606.233,0
+Bayelsa,Rivers,93.238,0
+Bayelsa,Lagos,329.191,0
+Bayelsa,Zamfara,843.632,0
+Bayelsa,Delta,104.188,0
+Bayelsa,Nassarawa,497.637,0
+Bayelsa,Cross River,233.167,0
+Bayelsa,Kebbi,772.29,0
+Bayelsa,Ogun,410.133,0
+Bayelsa,Abia,124.201,0
+Bayelsa,Gombe,794.117,0
+Bayelsa,Niger,568.835,0
+Bayelsa,Taraba,630.293,0
+Bayelsa,Kwara,498.286,0
+Bayelsa,Imo,136.074,0
+Bayelsa,Katsina,778.847,0
+Bayelsa,Ekiti,379.432,0
+Bayelsa,Kogi,359.516,0
+Bayelsa,Kano,842.387,0
+Bayelsa,Ebonyi,310.286,0
+Bayelsa,Oyo,411.254,0
+Bayelsa,Federal Capital Territory,511.558,0
+Yobe,Kaduna,450.708,0
+Yobe,Akwa Ibom,922.112,0
+Yobe,Edo,773.01,0
+Yobe,Borno,279.854,0
+Yobe,Adamawa,263.511,0
+Yobe,Benue,557.523,0
+Yobe,Plateau,437.051,0
+Yobe,Rivers,917.952,0
+Yobe,Zamfara,579.034,0
+Yobe,Delta,940.12,0
+Yobe,Nassarawa,512.202,0
+Yobe,Cross River,779.945,0
+Yobe,Kebbi,735.084,0
+Yobe,Abia,891.647,0
+Yobe,Gombe,223.202,0
+Yobe,Niger,642.724,0
+Yobe,Taraba,391.354,0
+Yobe,Kwara,830.125,0
+Yobe,Imo,869.787,0
+Yobe,Katsina,507.96,0
+Yobe,Ekiti,848.074,0
+Yobe,Kogi,697.867,0
+Yobe,Kano,366.668,0
+Yobe,Ebonyi,699.551,0
+Yobe,Federal Capital Territory,585.446,0
+Yobe,Cameroon,245.089,1
+Yobe,Chad,327.645,1
+Yobe,Niger,216.083,1
+Borno,Kaduna,719.691,0
+Borno,Yobe,279.854,0
+Borno,Adamawa,393.6,0
+Borno,Benue,765.462,0
+Borno,Plateau,705.326,0
+Borno,Zamfara,850.008,0
+Borno,Nassarawa,760.269,0
+Borno,Gombe,444.294,0
+Borno,Niger,920.772,0
+Borno,Taraba,603.595,0
+Borno,Katsina,784.971,0
+Borno,Kogi,956.151,0
+Borno,Kano,641.543,0
+Borno,Ebonyi,923.592,0
+Borno,Federal Capital Territory,856.48,0
+Borno,Cameroon,201.959,1
+Borno,Chad,148.76,1
+Borno,Niger,259.902,1
+Adamawa,Kaduna,423.171,0
+Adamawa,Akwa Ibom,740.535,0
+Adamawa,Edo,673.908,0
+Adamawa,Bayelsa,850.192,0
+Adamawa,Yobe,263.511,0
+Adamawa,Borno,393.6,0
+Adamawa,Benue,378.775,0
+Adamawa,Plateau,408.552,0
+Adamawa,Rivers,773.637,0
+Adamawa,Lagos,969.79,0
+Adamawa,Zamfara,694.577,0
+Adamawa,Delta,806.999,0
+Adamawa,Nassarawa,411.839,0
+Adamawa,Cross River,617.026,0
+Adamawa,Kebbi,812.773,0
+Adamawa,Abia,727.838,0
+Adamawa,Gombe,135.248,0
+Adamawa,Niger,648.086,0
+Adamawa,Taraba,229.574,0
+Adamawa,Kwara,813.899,0
+Adamawa,Imo,722.469,0
+Adamawa,Katsina,601.363,0
+Adamawa,Ekiti,793.956,0
+Adamawa,Kogi,612.472,0
+Adamawa,Kano,492.457,0
+Adamawa,Ebonyi,541.771,0
+Adamawa,Oyo,955.689,0
+Adamawa,Federal Capital Territory,552.231,0
+Adamawa,Cameroon,208.092,1
+Adamawa,Chad,512.183,1
+Adamawa,Niger,467.833,1
+Benue,Kaduna,284.458,0
+Benue,Akwa Ibom,367.805,0
+Benue,Edo,332.038,0
+Benue,Bayelsa,471.422,0
+Benue,Yobe,557.523,0
+Benue,Borno,765.462,0
+Benue,Adamawa,378.775,0
+Benue,Plateau,280.351,0
+Benue,Rivers,396.648,0
+Benue,Lagos,626.32,0
+Benue,Zamfara,639.059,0
+Benue,Delta,433.195,0
+Benue,Nassarawa,162.198,0
+Benue,Cross River,238.261,0
+Benue,Kebbi,675.278,0
+Benue,Ogun,695.832,0
+Benue,Abia,349.279,0
+Benue,Gombe,335.992,0
+Benue,Niger,447.206,0
+Benue,Taraba,166.79,0
+Benue,Kwara,548.631,0
+Benue,Imo,345.305,0
+Benue,Katsina,542.342,0
+Benue,Ekiti,486.099,0
+Benue,Kogi,296.201,0
+Benue,Kano,523.168,0
+Benue,Ebonyi,164.809,0
+Benue,Oyo,636.111,0
+Benue,Federal Capital Territory,328.903,0
+Benue,Cameroon,586.857,1
+Benue,Chad,867.169,1
+Benue,Niger,770.855,1
+Plateau,Kaduna,14.929,0
+Plateau,Akwa Ibom,561.888,0
+Plateau,Edo,344.474,0
+Plateau,Bayelsa,606.233,0
+Plateau,Yobe,437.051,0
+Plateau,Borno,705.326,0
+Plateau,Adamawa,408.552,0
+Plateau,Benue,280.351,0
+Plateau,Rivers,513.711,0
+Plateau,Lagos,609.504,0
+Plateau,Zamfara,362.239,0
+Plateau,Delta,525.325,0
+Plateau,Nassarawa,130.548,0
+Plateau,Cross River,410.414,0
+Plateau,Kebbi,428.222,0
+Plateau,Ogun,653.659,0
+Plateau,Abia,510.362,0
+Plateau,Gombe,285.224,0
+Plateau,Niger,239.628,0
+Plateau,Taraba,229.046,0
+Plateau,Kwara,410.508,0
+Plateau,Imo,471.822,0
+Plateau,Katsina,263.709,0
+Plateau,Ekiti,412.458,0
+Plateau,Kogi,266.263,0
+Plateau,Kano,253.813,0
+Plateau,Ebonyi,336.962,0
+Plateau,Oyo,573.241,0
+Plateau,Federal Capital Territory,151.813,0
+Plateau,Cameroon,582.118,1
+Plateau,Chad,763.742,1
+Plateau,Niger,617.471,1
+Rivers,Kaduna,505.184,0
+Rivers,Akwa Ibom,150.823,0
+Rivers,Edo,194.969,0
+Rivers,Bayelsa,93.238,0
+Rivers,Yobe,917.952,0
+Rivers,Adamawa,773.637,0
+Rivers,Benue,396.648,0
+Rivers,Plateau,513.711,0
+Rivers,Lagos,307.244,0
+Rivers,Zamfara,754.224,0
+Rivers,Delta,51.051,0
+Rivers,Nassarawa,407.846,0
+Rivers,Cross River,162.891,0
+Rivers,Kebbi,690.546,0
+Rivers,Ogun,389.73,0
+Rivers,Abia,83.324,0
+Rivers,Gombe,710.223,0
+Rivers,Niger,480.3,0
+Rivers,Taraba,549.54,0
+Rivers,Kwara,426.1,0
+Rivers,Imo,51.349,0
+Rivers,Katsina,687.271,0
+Rivers,Ekiti,308.418,0
+Rivers,Kogi,266.918,0
+Rivers,Kano,749.162,0
+Rivers,Ebonyi,232.088,0
+Rivers,Oyo,371.682,0
+Rivers,Federal Capital Territory,418.884,0
+Rivers,Cameroon,981.46,1
+Lagos,Kaduna,595.919,0
+Lagos,Akwa Ibom,455.359,0
+Lagos,Edo,297.783,0
+Lagos,Bayelsa,329.191,0
+Lagos,Adamawa,969.79,0
+Lagos,Benue,626.32,0
+Lagos,Plateau,609.504,0
+Lagos,Rivers,307.244,0
+Lagos,Zamfara,695.505,0
+Lagos,Delta,256.783,0
+Lagos,Nassarawa,559.269,0
+Lagos,Cross River,438.746,0
+Lagos,Kebbi,567.931,0
+Lagos,Ogun,82.608,0
+Lagos,Abia,390.364,0
+Lagos,Gombe,873.588,0
+Lagos,Niger,446.24,0
+Lagos,Taraba,741.449,0
+Lagos,Kwara,283.209,0
+Lagos,Imo,340.025,0
+Lagos,Katsina,666.433,0
+Lagos,Ekiti,205.426,0
+Lagos,Kogi,358.402,0
+Lagos,Kano,777.4,0
+Lagos,Ebonyi,476.453,0
+Lagos,Oyo,102.155,0
+Lagos,Federal Capital Territory,463.748,0
+Zamfara,Kaduna,355.8,0
+Zamfara,Akwa Ibom,851.628,0
+Zamfara,Edo,559.326,0
+Zamfara,Bayelsa,843.632,0
+Zamfara,Yobe,579.034,0
+Zamfara,Borno,850.008,0
+Zamfara,Adamawa,694.577,0
+Zamfara,Benue,639.059,0
+Zamfara,Plateau,362.239,0
+Zamfara,Rivers,754.224,0
+Zamfara,Lagos,695.505,0
+Zamfara,Delta,742.838,0
+Zamfara,Nassarawa,479.036,0
+Zamfara,Cross River,710.482,0
+Zamfara,Kebbi,176.222,0
+Zamfara,Ogun,697.056,0
+Zamfara,Abia,784.267,0
+Zamfara,Gombe,559.762,0
+Zamfara,Niger,275.167,0
+Zamfara,Taraba,578.613,0
+Zamfara,Kwara,413.186,0
+Zamfara,Imo,728.958,0
+Zamfara,Katsina,99.85,0
+Zamfara,Ekiti,504.093,0
+Zamfara,Kogi,493.11,0
+Zamfara,Kano,213.951,0
+Zamfara,Ebonyi,654.319,0
+Zamfara,Oyo,612.631,0
+Zamfara,Federal Capital Territory,350.656,0
+Zamfara,Cameroon,805.023,1
+Zamfara,Chad,844.454,1
+Zamfara,Niger,654.658,1
+Delta,Kaduna,515.652,0
+Delta,Akwa Ibom,199.269,0
+Delta,Edo,189.72,0
+Delta,Bayelsa,104.188,0
+Delta,Yobe,940.12,0
+Delta,Adamawa,806.999,0
+Delta,Benue,433.195,0
+Delta,Plateau,525.325,0
+Delta,Rivers,51.051,0
+Delta,Lagos,256.783,0
+Delta,Zamfara,742.838,0
+Delta,Nassarawa,427.982,0
+Delta,Cross River,206.224,0
+Delta,Kebbi,668.195,0
+Delta,Ogun,339.356,0
+Delta,Abia,134.317,0
+Delta,Gombe,737.168,0
+Delta,Niger,467.69,0
+Delta,Taraba,580.333,0
+Delta,Kwara,394.928,0
+Delta,Imo,94.275,0
+Delta,Katsina,681.267,0
+Delta,Ekiti,276.107,0
+Delta,Kogi,267.238,0
+Delta,Kano,752.331,0
+Delta,Ebonyi,268.644,0
+Delta,Oyo,324.701,0
+Delta,Federal Capital Territory,418.164,0
+Nassarawa,Kaduna,130.307,0
+Nassarawa,Akwa Ibom,437.879,0
+Nassarawa,Edo,267.554,0
+Nassarawa,Bayelsa,497.637,0
+Nassarawa,Yobe,512.202,0
+Nassarawa,Borno,760.269,0
+Nassarawa,Adamawa,411.839,0
+Nassarawa,Benue,162.198,0
+Nassarawa,Plateau,130.548,0
+Nassarawa,Rivers,407.846,0
+Nassarawa,Lagos,559.269,0
+Nassarawa,Zamfara,479.036,0
+Nassarawa,Delta,427.982,0
+Nassarawa,Cross River,286.769,0
+Nassarawa,Kebbi,514.661,0
+Nassarawa,Ogun,616.574,0
+Nassarawa,Abia,392.345,0
+Nassarawa,Gombe,316.993,0
+Nassarawa,Niger,291.613,0
+Nassarawa,Taraba,188.107,0
+Nassarawa,Kwara,419.431,0
+Nassarawa,Imo,361.566,0
+Nassarawa,Katsina,384.028,0
+Nassarawa,Ekiti,383.686,0
+Nassarawa,Kogi,201.012,0
+Nassarawa,Kano,384.083,0
+Nassarawa,Ebonyi,209.93,0
+Nassarawa,Oyo,544.572,0
+Nassarawa,Federal Capital Territory,174.061,0
+Nassarawa,Cameroon,609.306,1
+Nassarawa,Chad,838.272,1
+Nassarawa,Niger,710.832,1
+Cross River,Kaduna,405.616,0
+Cross River,Akwa Ibom,151.526,0
+Cross River,Edo,199.425,0
+Cross River,Bayelsa,233.167,0
+Cross River,Yobe,779.945,0
+Cross River,Adamawa,617.026,0
+Cross River,Benue,238.261,0
+Cross River,Plateau,410.414,0
+Cross River,Rivers,162.891,0
+Cross River,Lagos,438.746,0
+Cross River,Zamfara,710.482,0
+Cross River,Delta,206.224,0
+Cross River,Nassarawa,286.769,0
+Cross River,Kebbi,685.563,0
+Cross River,Ogun,517.726,0
+Cross River,Abia,112.387,0
+Cross River,Gombe,564.547,0
+Cross River,Niger,453.792,0
+Cross River,Taraba,398.556,0
+Cross River,Kwara,466.661,0
+Cross River,Imo,112.58,0
+Cross River,Katsina,628.757,0
+Cross River,Ekiti,365.07,0
+Cross River,Kogi,229.433,0
+Cross River,Kano,661.375,0
+Cross River,Ebonyi,80.457,0
+Cross River,Oyo,478.681,0
+Cross River,Federal Capital Territory,359.83,0
+Cross River,Cameroon,825.114,1
+Cross River,Niger,987.505,1
+Kebbi,Kaduna,416.796,0
+Kebbi,Akwa Ibom,810.568,0
+Kebbi,Edo,504.08,0
+Kebbi,Bayelsa,772.29,0
+Kebbi,Yobe,735.084,0
+Kebbi,Adamawa,812.773,0
+Kebbi,Benue,675.278,0
+Kebbi,Plateau,428.222,0
+Kebbi,Rivers,690.546,0
+Kebbi,Lagos,567.931,0
+Kebbi,Zamfara,176.222,0
+Kebbi,Delta,668.195,0
+Kebbi,Nassarawa,514.661,0
+Kebbi,Cross River,685.563,0
+Kebbi,Ogun,554.579,0
+Kebbi,Abia,737.296,0
+Kebbi,Gombe,678.379,0
+Kebbi,Niger,235.612,0
+Kebbi,Taraba,657.263,0
+Kebbi,Kwara,289.653,0
+Kebbi,Imo,676.368,0
+Kebbi,Katsina,227.136,0
+Kebbi,Ekiti,401.029,0
+Kebbi,Kogi,456.188,0
+Kebbi,Kano,370.164,0
+Kebbi,Ebonyi,646.216,0
+Kebbi,Oyo,474.861,0
+Kebbi,Federal Capital Territory,349.268,0
+Kebbi,Cameroon,947.677,1
+Kebbi,Niger,827.563,1
+Ogun,Kaduna,639.465,0
+Ogun,Akwa Ibom,537.96,0
+Ogun,Edo,364.123,0
+Ogun,Bayelsa,410.133,0
+Ogun,Benue,695.832,0
+Ogun,Plateau,653.659,0
+Ogun,Rivers,389.73,0
+Ogun,Lagos,82.608,0
+Ogun,Zamfara,697.056,0
+Ogun,Delta,339.356,0
+Ogun,Nassarawa,616.574,0
+Ogun,Cross River,517.726,0
+Ogun,Kebbi,554.579,0
+Ogun,Abia,472.765,0
+Ogun,Gombe,926.273,0
+Ogun,Niger,467.312,0
+Ogun,Taraba,802.108,0
+Ogun,Kwara,286.854,0
+Ogun,Imo,421.514,0
+Ogun,Katsina,679.677,0
+Ogun,Ekiti,241.215,0
+Ogun,Kogi,416.313,0
+Ogun,Kano,800.253,0
+Ogun,Ebonyi,551.058,0
+Ogun,Oyo,86.274,0
+Ogun,Federal Capital Territory,503.653,0
+Abia,Kaduna,503.954,0
+Abia,Akwa Ibom,75.872,0
+Abia,Edo,233.216,0
+Abia,Bayelsa,124.201,0
+Abia,Yobe,891.647,0
+Abia,Adamawa,727.838,0
+Abia,Benue,349.279,0
+Abia,Plateau,510.362,0
+Abia,Rivers,83.324,0
+Abia,Lagos,390.364,0
+Abia,Zamfara,784.267,0
+Abia,Delta,134.317,0
+Abia,Nassarawa,392.345,0
+Abia,Cross River,112.387,0
+Abia,Kebbi,737.296,0
+Abia,Ogun,472.765,0
+Abia,Gombe,676.893,0
+Abia,Niger,515.686,0
+Abia,Taraba,510.875,0
+Abia,Kwara,487.535,0
+Abia,Imo,63.333,0
+Abia,Katsina,709.707,0
+Abia,Ekiti,373.278,0
+Abia,Kogi,291.228,0
+Abia,Kano,756.397,0
+Abia,Ebonyi,192.277,0
+Abia,Oyo,451.664,0
+Abia,Federal Capital Territory,437.958,0
+Abia,Cameroon,935.826,1
+Gombe,Kaduna,300.139,0
+Gombe,Akwa Ibom,702.788,0
+Gombe,Edo,584.542,0
+Gombe,Bayelsa,794.117,0
+Gombe,Yobe,223.202,0
+Gombe,Borno,444.294,0
+Gombe,Adamawa,135.248,0
+Gombe,Benue,335.992,0
+Gombe,Plateau,285.224,0
+Gombe,Rivers,710.223,0
+Gombe,Lagos,873.588,0
+Gombe,Zamfara,559.762,0
+Gombe,Delta,737.168,0
+Gombe,Nassarawa,316.993,0
+Gombe,Cross River,564.547,0
+Gombe,Kebbi,678.379,0
+Gombe,Ogun,926.273,0
+Gombe,Abia,676.893,0
+Gombe,Niger,522.296,0
+Gombe,Taraba,169.217,0
+Gombe,Kwara,695.412,0
+Gombe,Imo,660.494,0
+Gombe,Katsina,466.139,0
+Gombe,Ekiti,687.277,0
+Gombe,Kogi,515.715,0
+Gombe,Kano,360.62,0
+Gombe,Ebonyi,484.832,0
+Gombe,Oyo,849.579,0
+Gombe,Federal Capital Territory,434.612,0
+Gombe,Cameroon,298.388,1
+Gombe,Chad,533.457,1
+Gombe,Niger,438.811,1
+Niger,Kaduna,225.167,0
+Niger,Akwa Ibom,586.166,0
+Niger,Edo,286.063,0
+Niger,Bayelsa,568.835,0
+Niger,Yobe,642.724,0
+Niger,Borno,920.772,0
+Niger,Adamawa,648.086,0
+Niger,Benue,447.206,0
+Niger,Plateau,239.628,0
+Niger,Rivers,480.3,0
+Niger,Lagos,446.24,0
+Niger,Zamfara,275.167,0
+Niger,Delta,467.69,0
+Niger,Nassarawa,291.613,0
+Niger,Cross River,453.792,0
+Niger,Kebbi,235.612,0
+Niger,Ogun,467.312,0
+Niger,Abia,515.686,0
+Niger,Gombe,522.296,0
+Niger,Taraba,457.524,0
+Niger,Kwara,189.196,0
+Niger,Imo,457.867,0
+Niger,Katsina,223.391,0
+Niger,Ekiti,242.856,0
+Niger,Kogi,226.415,0
+Niger,Kano,333.056,0
+Niger,Ebonyi,410.917,0
+Niger,Oyo,381.313,0
+Niger,Federal Capital Territory,118.399,0
+Niger,Cameroon,815.5,1
+Niger,Chad,958.305,1
+Niger,Niger,789.639,1
+Taraba,Kaduna,240.833,0
+Taraba,Akwa Ibom,534.045,0
+Taraba,Edo,444.751,0
+Taraba,Bayelsa,630.293,0
+Taraba,Yobe,391.354,0
+Taraba,Borno,603.595,0
+Taraba,Adamawa,229.574,0
+Taraba,Benue,166.79,0
+Taraba,Plateau,229.046,0
+Taraba,Rivers,549.54,0
+Taraba,Lagos,741.449,0
+Taraba,Zamfara,578.613,0
+Taraba,Delta,580.333,0
+Taraba,Nassarawa,188.107,0
+Taraba,Cross River,398.556,0
+Taraba,Kebbi,657.263,0
+Taraba,Ogun,802.108,0
+Taraba,Abia,510.875,0
+Taraba,Gombe,169.217,0
+Taraba,Niger,457.524,0
+Taraba,Kwara,604.28,0
+Taraba,Imo,498.893,0
+Taraba,Katsina,478.803,0
+Taraba,Ekiti,571.568,0
+Taraba,Kogi,385.837,0
+Taraba,Kano,418.704,0
+Taraba,Ebonyi,320.01,0
+Taraba,Oyo,731.88,0
+Taraba,Federal Capital Territory,347.928,0
+Taraba,Cameroon,434.491,1
+Taraba,Chad,701.075,1
+Taraba,Niger,605.719,1
+Kwara,Kaduna,395.581,0
+Kwara,Akwa Ibom,563.378,0
+Kwara,Edo,267.347,0
+Kwara,Bayelsa,498.286,0
+Kwara,Yobe,830.125,0
+Kwara,Adamawa,813.899,0
+Kwara,Benue,548.631,0
+Kwara,Plateau,410.508,0
+Kwara,Rivers,426.1,0
+Kwara,Lagos,283.209,0
+Kwara,Zamfara,413.186,0
+Kwara,Delta,394.928,0
+Kwara,Nassarawa,419.431,0
+Kwara,Cross River,466.661,0
+Kwara,Kebbi,289.653,0
+Kwara,Ogun,286.854,0
+Kwara,Abia,487.535,0
+Kwara,Gombe,695.412,0
+Kwara,Niger,189.196,0
+Kwara,Taraba,604.28,0
+Kwara,Imo,424.215,0
+Kwara,Katsina,393.081,0
+Kwara,Ekiti,118.86,0
+Kwara,Kogi,258.986,0
+Kwara,Kano,517.819,0
+Kwara,Ebonyi,455.471,0
+Kwara,Oyo,201.007,0
+Kwara,Federal Capital Territory,261.743,0
+Kwara,Cameroon,992.609,1
+Kwara,Niger,978.496,1
+Imo,Kaduna,464.07,0
+Imo,Akwa Ibom,139.203,0
+Imo,Edo,172.872,0
+Imo,Bayelsa,136.074,0
+Imo,Yobe,869.787,0
+Imo,Adamawa,722.469,0
+Imo,Benue,345.305,0
+Imo,Plateau,471.822,0
+Imo,Rivers,51.349,0
+Imo,Lagos,340.025,0
+Imo,Zamfara,728.958,0
+Imo,Delta,94.275,0
+Imo,Nassarawa,361.566,0
+Imo,Cross River,112.58,0
+Imo,Kebbi,676.368,0
+Imo,Ogun,421.514,0
+Imo,Abia,63.333,0
+Imo,Gombe,660.494,0
+Imo,Niger,457.867,0
+Imo,Taraba,498.893,0
+Imo,Kwara,424.215,0
+Imo,Katsina,657.576,0
+Imo,Ekiti,310.073,0
+Imo,Kogi,236.554,0
+Imo,Kano,712.097,0
+Imo,Ebonyi,180.804,0
+Imo,Oyo,394.275,0
+Imo,Federal Capital Territory,386.66,0
+Imo,Cameroon,930.346,1
+Katsina,Kaduna,258.091,0
+Katsina,Akwa Ibom,773.934,0
+Katsina,Edo,493.165,0
+Katsina,Bayelsa,778.847,0
+Katsina,Yobe,507.96,0
+Katsina,Borno,784.971,0
+Katsina,Adamawa,601.363,0
+Katsina,Benue,542.342,0
+Katsina,Plateau,263.709,0
+Katsina,Rivers,687.271,0
+Katsina,Lagos,666.433,0
+Katsina,Zamfara,99.85,0
+Katsina,Delta,681.267,0
+Katsina,Nassarawa,384.028,0
+Katsina,Cross River,628.757,0
+Katsina,Kebbi,227.136,0
+Katsina,Ogun,679.677,0
+Katsina,Abia,709.707,0
+Katsina,Gombe,466.139,0
+Katsina,Niger,223.391,0
+Katsina,Taraba,478.803,0
+Katsina,Kwara,393.081,0
+Katsina,Imo,657.576,0
+Katsina,Ekiti,465.416,0
+Katsina,Kogi,421.282,0
+Katsina,Kano,144.763,0
+Katsina,Ebonyi,567.938,0
+Katsina,Oyo,593.532,0
+Katsina,Federal Capital Territory,271.763,0
+Katsina,Cameroon,723.38,1
+Katsina,Chad,794.258,1
+Katsina,Niger,610.851,1
+Ekiti,Kaduna,398.25,0
+Ekiti,Akwa Ibom,449.081,0
+Ekiti,Edo,169.008,0
+Ekiti,Bayelsa,379.432,0
+Ekiti,Yobe,848.074,0
+Ekiti,Adamawa,793.956,0
+Ekiti,Benue,486.099,0
+Ekiti,Plateau,412.458,0
+Ekiti,Rivers,308.418,0
+Ekiti,Lagos,205.426,0
+Ekiti,Zamfara,504.093,0
+Ekiti,Delta,276.107,0
+Ekiti,Nassarawa,383.686,0
+Ekiti,Cross River,365.07,0
+Ekiti,Kebbi,401.029,0
+Ekiti,Ogun,241.215,0
+Ekiti,Abia,373.278,0
+Ekiti,Gombe,687.277,0
+Ekiti,Niger,242.856,0
+Ekiti,Taraba,571.568,0
+Ekiti,Kwara,118.86,0
+Ekiti,Imo,310.073,0
+Ekiti,Katsina,465.416,0
+Ekiti,Kogi,190.934,0
+Ekiti,Kano,572.238,0
+Ekiti,Ebonyi,367.835,0
+Ekiti,Oyo,162.326,0
+Ekiti,Federal Capital Territory,262.673,0
+Ekiti,Cameroon,985.221,1
+Kogi,Kaduna,254.821,0
+Kogi,Akwa Ibom,360.168,0
+Kogi,Edo,79.178,0
+Kogi,Bayelsa,359.516,0
+Kogi,Yobe,697.867,0
+Kogi,Borno,956.151,0
+Kogi,Adamawa,612.472,0
+Kogi,Benue,296.201,0
+Kogi,Plateau,266.263,0
+Kogi,Rivers,266.918,0
+Kogi,Lagos,358.402,0
+Kogi,Zamfara,493.11,0
+Kogi,Delta,267.238,0
+Kogi,Nassarawa,201.012,0
+Kogi,Cross River,229.433,0
+Kogi,Kebbi,456.188,0
+Kogi,Ogun,416.313,0
+Kogi,Abia,291.228,0
+Kogi,Gombe,515.715,0
+Kogi,Niger,226.415,0
+Kogi,Taraba,385.837,0
+Kogi,Kwara,258.986,0
+Kogi,Imo,236.554,0
+Kogi,Katsina,421.282,0
+Kogi,Ekiti,190.934,0
+Kogi,Kano,485.101,0
+Kogi,Ebonyi,199.975,0
+Kogi,Oyo,347.268,0
+Kogi,Federal Capital Territory,152.043,0
+Kogi,Cameroon,810.077,1
+Kogi,Niger,883.666,1
+Kano,Kaduna,256.523,0
+Kano,Akwa Ibom,812.239,0
+Kano,Edo,563.156,0
+Kano,Bayelsa,842.387,0
+Kano,Yobe,366.668,0
+Kano,Borno,641.543,0
+Kano,Adamawa,492.457,0
+Kano,Benue,523.168,0
+Kano,Plateau,253.813,0
+Kano,Rivers,749.162,0
+Kano,Lagos,777.4,0
+Kano,Zamfara,213.951,0
+Kano,Delta,752.331,0
+Kano,Nassarawa,384.083,0
+Kano,Cross River,661.375,0
+Kano,Kebbi,370.164,0
+Kano,Ogun,800.253,0
+Kano,Abia,756.397,0
+Kano,Gombe,360.62,0
+Kano,Niger,333.056,0
+Kano,Taraba,418.704,0
+Kano,Kwara,517.819,0
+Kano,Imo,712.097,0
+Kano,Katsina,144.763,0
+Kano,Ekiti,572.238,0
+Kano,Kogi,485.101,0
+Kano,Ebonyi,590.016,0
+Kano,Oyo,714.141,0
+Kano,Federal Capital Territory,335.293,0
+Kano,Cameroon,591.335,1
+Kano,Chad,649.88,1
+Kano,Niger,468.423,1
+Ebonyi,Kaduna,333.493,0
+Ebonyi,Akwa Ibom,228.815,0
+Ebonyi,Edo,199.657,0
+Ebonyi,Bayelsa,310.286,0
+Ebonyi,Yobe,699.551,0
+Ebonyi,Borno,923.592,0
+Ebonyi,Adamawa,541.771,0
+Ebonyi,Benue,164.809,0
+Ebonyi,Plateau,336.962,0
+Ebonyi,Rivers,232.088,0
+Ebonyi,Lagos,476.453,0
+Ebonyi,Zamfara,654.319,0
+Ebonyi,Delta,268.644,0
+Ebonyi,Nassarawa,209.93,0
+Ebonyi,Cross River,80.457,0
+Ebonyi,Kebbi,646.216,0
+Ebonyi,Ogun,551.058,0
+Ebonyi,Abia,192.277,0
+Ebonyi,Gombe,484.832,0
+Ebonyi,Niger,410.917,0
+Ebonyi,Taraba,320.01,0
+Ebonyi,Kwara,455.471,0
+Ebonyi,Imo,180.804,0
+Ebonyi,Katsina,567.938,0
+Ebonyi,Ekiti,367.835,0
+Ebonyi,Kogi,199.975,0
+Ebonyi,Kano,590.016,0
+Ebonyi,Oyo,501.109,0
+Ebonyi,Federal Capital Territory,306.126,0
+Ebonyi,Cameroon,749.733,1
+Ebonyi,Niger,907.091,1
+Oyo,Kaduna,558.829,0
+Oyo,Akwa Ibom,522.505,0
+Oyo,Edo,305.384,0
+Oyo,Bayelsa,411.254,0
+Oyo,Adamawa,955.689,0
+Oyo,Benue,636.111,0
+Oyo,Plateau,573.241,0
+Oyo,Rivers,371.682,0
+Oyo,Lagos,102.155,0
+Oyo,Zamfara,612.631,0
+Oyo,Delta,324.701,0
+Oyo,Nassarawa,544.572,0
+Oyo,Cross River,478.681,0
+Oyo,Kebbi,474.861,0
+Oyo,Ogun,86.274,0
+Oyo,Abia,451.664,0
+Oyo,Gombe,849.579,0
+Oyo,Niger,381.313,0
+Oyo,Taraba,731.88,0
+Oyo,Kwara,201.007,0
+Oyo,Imo,394.275,0
+Oyo,Katsina,593.532,0
+Oyo,Ekiti,162.326,0
+Oyo,Kogi,347.268,0
+Oyo,Kano,714.141,0
+Oyo,Ebonyi,501.109,0
+Oyo,Federal Capital Territory,422.161,0
+Federal Capital Territory,Kaduna,137.139,0
+Federal Capital Territory,Akwa Ibom,502.629,0
+Federal Capital Territory,Edo,228.491,0
+Federal Capital Territory,Bayelsa,511.558,0
+Federal Capital Territory,Yobe,585.446,0
+Federal Capital Territory,Borno,856.48,0
+Federal Capital Territory,Adamawa,552.231,0
+Federal Capital Territory,Benue,328.903,0
+Federal Capital Territory,Plateau,151.813,0
+Federal Capital Territory,Rivers,418.884,0
+Federal Capital Territory,Lagos,463.748,0
+Federal Capital Territory,Zamfara,350.656,0
+Federal Capital Territory,Delta,418.164,0
+Federal Capital Territory,Nassarawa,174.061,0
+Federal Capital Territory,Cross River,359.83,0
+Federal Capital Territory,Kebbi,349.268,0
+Federal Capital Territory,Ogun,503.653,0
+Federal Capital Territory,Abia,437.958,0
+Federal Capital Territory,Gombe,434.612,0
+Federal Capital Territory,Niger,118.399,0
+Federal Capital Territory,Taraba,347.928,0
+Federal Capital Territory,Kwara,261.743,0
+Federal Capital Territory,Imo,386.66,0
+Federal Capital Territory,Katsina,271.763,0
+Federal Capital Territory,Ekiti,262.673,0
+Federal Capital Territory,Kogi,152.043,0
+Federal Capital Territory,Kano,335.293,0
+Federal Capital Territory,Ebonyi,306.126,0
+Federal Capital Territory,Oyo,422.161,0
+Federal Capital Territory,Cameroon,732.61,1
+Federal Capital Territory,Chad,910.253,1
+Federal Capital Territory,Niger,755.596,1
+Cameroon,Kaduna,597.041,0
+Cameroon,Akwa Ibom,947.082,0
+Cameroon,Edo,875.314,0
+Cameroon,Yobe,245.089,1
+Cameroon,Borno,201.959,1
+Cameroon,Adamawa,208.092,1
+Cameroon,Benue,586.857,1
+Cameroon,Plateau,582.118,1
+Cameroon,Rivers,981.46,1
+Cameroon,Zamfara,805.023,1
+Cameroon,Nassarawa,609.306,1
+Cameroon,Cross River,825.114,1
+Cameroon,Kebbi,947.677,1
+Cameroon,Abia,935.826,1
+Cameroon,Gombe,298.388,1
+Cameroon,Niger,815.5,1
+Cameroon,Taraba,434.491,1
+Cameroon,Kwara,992.609,1
+Cameroon,Imo,930.346,1
+Cameroon,Katsina,723.38,1
+Cameroon,Ekiti,985.221,1
+Cameroon,Kogi,810.077,1
+Cameroon,Kano,591.335,1
+Cameroon,Ebonyi,749.733,1
+Cameroon,Federal Capital Territory,732.61,1
+Cameroon,Cameroon,0.0,0
+Cameroon,Chad,341.455,0
+Cameroon,Niger,369.42,0
+Chad,Kaduna,777.108,0
+Chad,Yobe,327.645,1
+Chad,Borno,148.76,1
+Chad,Adamawa,512.183,1
+Chad,Benue,867.169,1
+Chad,Plateau,763.742,1
+Chad,Zamfara,844.454,1
+Chad,Nassarawa,838.272,1
+Chad,Gombe,533.457,1
+Chad,Niger,958.305,1
+Chad,Taraba,701.075,1
+Chad,Katsina,794.258,1
+Chad,Kano,649.88,1
+Chad,Federal Capital Territory,910.253,1
+Chad,Cameroon,341.455,0
+Chad,Chad,0.0,0
+Chad,Niger,194.074,0
+Niger,Kaduna,629.4,0
+Niger,Edo,961.436,0
+Niger,Yobe,216.083,1
+Niger,Borno,259.902,1
+Niger,Adamawa,467.833,1
+Niger,Benue,770.855,1
+Niger,Plateau,617.471,1
+Niger,Zamfara,654.658,1
+Niger,Nassarawa,710.832,1
+Niger,Cross River,987.505,1
+Niger,Kebbi,827.563,1
+Niger,Gombe,438.811,1
+Niger,Niger,789.639,1
+Niger,Taraba,605.719,1
+Niger,Kwara,978.496,1
+Niger,Katsina,610.851,1
+Niger,Kogi,883.666,1
+Niger,Kano,468.423,1
+Niger,Ebonyi,907.091,1
+Niger,Federal Capital Territory,755.596,1
+Niger,Cameroon,369.42,0
+Niger,Chad,194.074,0
+Niger,Niger,0.0,0
